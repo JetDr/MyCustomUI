@@ -31,7 +31,7 @@ public class MyCustomUI extends JFrame {
 
         // Create the menu bar and menu items
         JMenuBar menuBar = new JMenuBar(); 
-        JMenu menu = new JMenu("Options");  // Create "Options" menu
+        JMenu menu = new JMenu("Menu");  // Create "Options" menu
 
         // Create menu items with corresponding actions
         JMenuItem item1 = new JMenuItem("Show Date & Time");
